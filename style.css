@@ -1,0 +1,25 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px red;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.further{
+    position: fixed;
+    background-color: salmon;
+    color: powderblue;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    bottom:0px;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+
+}
